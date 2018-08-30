@@ -1,0 +1,4 @@
+﻿User-agent: *
+Disallow:
+Host: pulsauto.ru
+Sitemap: http://pulsauto.ru/sitemap.xml
